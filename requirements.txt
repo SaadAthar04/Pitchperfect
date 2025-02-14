@@ -1,4 +1,3 @@
-pyaudio
 wave
 librosa
 matplotlib
@@ -8,6 +7,5 @@ streamlit
 openai-whisper
 numpy
 requests
-ffmpeg-python
 pydub
 openai
