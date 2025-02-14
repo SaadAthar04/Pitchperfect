@@ -42,15 +42,19 @@ cd Pitchperfect
 
 ``` sh
 pip install streamlit openai-whisper openai numpy requests ffmpeg-python pydub
-Ensure FFmpeg is installed and configured properly.
 ```
+
+Ensure FFmpeg is installed and configured properly.
+
 
 4. Run the Streamlit application:
 
 ``` sh
 streamlit run pitchperfect.py
-Upload your audio (MP3, WAV, M4A) and start practicing your pitch!
 ```
+
+Upload your audio (MP3, WAV, M4A) and start practicing your pitch!
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
