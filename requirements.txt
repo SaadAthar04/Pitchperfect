@@ -6,3 +6,4 @@ librosa
 matplotlib
 whisper
 streamlit-mic-recorder
+numpy
