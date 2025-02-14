@@ -26,33 +26,31 @@ OpenAI API (for AI-based transcription)
 
 ## Pitchperfect | Installation
 
-Clone This Repository
+1. Clone This Repository
 
-sh
-Copy
-Edit
+``` sh
 git clone https://github.com/SaadAthar04/Pitchperfect.git
-Navigate to the project directory:
+```
 
-sh
-Copy
-Edit
+2. Navigate to the project directory:
+
+``` sh
 cd Pitchperfect
-Install Python dependencies:
+```
 
-sh
-Copy
-Edit
+3. Install Python dependencies:
+
+``` sh
 pip install streamlit openai-whisper openai numpy requests ffmpeg-python pydub
 Ensure FFmpeg is installed and configured properly.
+```
 
-Run the Streamlit application:
+4. Run the Streamlit application:
 
-sh
-Copy
-Edit
+``` sh
 streamlit run pitchperfect.py
 Upload your audio (MP3, WAV, M4A) and start practicing your pitch!
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
