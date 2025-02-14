@@ -1,0 +1,7 @@
+streamlit
+pyaudio
+wave
+numpy
+librosa
+matplotlib
+whisper
