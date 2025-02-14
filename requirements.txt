@@ -1,9 +1,14 @@
-streamlit
 pyaudio
 wave
-numpy
 librosa
 matplotlib
 whisper
 streamlit-mic-recorder
-numpy
+streamlit==1.17.0
+openai-whisper==1.0.0
+numpy==1.24.0
+requests==2.28.2
+ffmpeg-python==4.4
+pydub==0.25.1
+openai==0.27.0
+
