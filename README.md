@@ -31,7 +31,7 @@ Clone This Repository
 sh
 Copy
 Edit
-git clone https://github.com/yourusername/Pitchperfect.git
+git clone https://github.com/SaadAthar04/Pitchperfect.git
 Navigate to the project directory:
 
 sh
