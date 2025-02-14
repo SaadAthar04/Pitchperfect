@@ -1,14 +1,18 @@
 <a name="readme-top"></a>
 
-Pitchperfect | Introduction
+## Pitchperfect | Introduction
+
 Welcome to Pitchperfect! 🎤 This app is your personal Presentation & Pitch Trainer, powered by Whisper AI. Pitchperfect helps you improve your speaking skills by providing real-time feedback on tone, clarity, pacing, and confidence. Whether you're preparing for a presentation, pitch, or job interview, Pitchperfect guides you in delivering a more professional, engaging, and confident speech.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-Pitchperfect | Tools & Technology
+
+## Pitchperfect | Tools & Technology
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3.7_%7C_3.8_%7C_3.9_%7C_3.10_%7C_3.11-blue?style=for-the-badge" />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-Pitchperfect | Prerequisites
+
+## Pitchperfect | Prerequisites
+
 These are the softwares you need to install before getting started:
 
 Python (3.7 or higher)
@@ -19,7 +23,9 @@ Streamlit (for UI development)
 Pydub (for audio file conversion)
 OpenAI API (for AI-based transcription)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-Pitchperfect | Installation
+
+## Pitchperfect | Installation
+
 Clone This Repository
 
 sh
@@ -49,7 +55,9 @@ streamlit run pitchperfect.py
 Upload your audio (MP3, WAV, M4A) and start practicing your pitch!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-Pitchperfect | Snapshots
+
+## Pitchperfect | Snapshots
+
 🔹 Start Your Pitch Practice
   ![image](https://github.com/user-attachments/assets/ee30637c-8d5c-40bb-8bff-8cf27128ac1c)
 
